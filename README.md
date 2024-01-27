@@ -14,4 +14,4 @@ const graph = {
 
 ```
 
-Copyright (c) 2024 Jose Edaurdo. All Rights Reserved.
+Copyright (c) 2024 Jose Eduardo. All Rights Reserved.
